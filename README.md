@@ -51,13 +51,16 @@ A complete CI/CD pipeline was created for a sample web application to enable aut
 
 <img width="947" height="663" alt="image" src="./screenshots/Image3.png" />
 
+<img width="947" height="663" alt="image" src="./screenshots/Image4.png" />
+
 4. Changes made in index.cshtml
 
-<img width="947" height="663" alt="image" src="./screenshots/Image4.png" />
+<img width="947" height="663" alt="image" src="./screenshots/Image5.png" />
+
 
 5. Pipeline Triggered automatically and changes visible in webpage.
 
-<img width="947" height="663" alt="image" src="./screenshots/Image5.png" />
+<img width="947" height="663" alt="image" src="./screenshots/Image7.png" />
 
 <img width="947" height="663" alt="image" src="./screenshots/Image6.png" />
 

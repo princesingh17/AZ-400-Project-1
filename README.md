@@ -65,5 +65,9 @@ A complete CI/CD pipeline was created for a sample web application to enable aut
 <img width="947" height="663" alt="image" src="./screenshots/Image6.png" />
 
 
-## 📜 Status
-**✅ Completed** – CI/CD pipeline successfully built and deployed the web application.
+## 📚 Learnings
+- Practical understanding of **Azure DevOps Repos** and **Pipelines**.
+- Configuring **multi-stage pipelines** for automated builds and deployments.
+- Using **deployment slots** for zero-downtime releases.
+- Managing application lifecycle from code commit to production deployment.
+- Troubleshooting build and release pipeline issues.
